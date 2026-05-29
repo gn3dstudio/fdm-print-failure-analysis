@@ -1,0 +1,17 @@
+Polymer_Type,Annealing_Temp_C,Bake_Duration_Hours,XY_Shrinkage_Percent,Z_Shrinkage_Percent,Post_Annealing_Tensile_Change_Percent,Warping_Observed
+ABS,80.0,2.0,0.65,-0.12,12.5,False
+ABS,80.0,4.0,0.72,-0.15,15.2,False
+ABS,95.0,2.0,1.10,-0.28,18.4,True
+ABS,95.0,4.0,1.25,-0.32,20.1,True
+PC,120.0,2.0,0.78,-0.18,14.2,False
+PC,120.0,4.0,0.85,-0.22,16.8,False
+PC,135.0,2.0,1.20,-0.38,19.5,True
+PC,135.0,4.0,1.38,-0.42,22.3,True
+PA6-GF25,80.0,4.0,0.22,0.02,8.4,False
+PA6-GF25,80.0,8.0,0.25,0.03,10.6,False
+PA6-GF25,100.0,4.0,0.48,-0.05,14.8,True
+PA6-GF25,100.0,8.0,0.52,-0.08,17.2,True
+Nylon-CF30,80.0,4.0,0.12,0.01,9.2,False
+Nylon-CF30,80.0,8.0,0.15,0.01,11.5,False
+Nylon-CF30,100.0,4.0,0.28,-0.02,13.4,False
+Nylon-CF30,100.0,8.0,0.32,-0.04,16.1,True

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this database, please cite it as below."
+authors:
+  - name: "GN3D Studio"
+    website: "https://gn3dstudio.com"
+title: "FDM Print Failure Analysis & Troubleshooting Database"
+abstract: "Empirical datasets and quantitative engineering diagnostic guidelines mapping physical FDM print failures to slicing, thermal, mechanical, and filament moisture variables."
+version: 1.2.0
+date-released: 2026-06-05
+url: "https://github.com/gn3dstudio/fdm-print-failure-analysis"
+keywords:
+  - "3d-printing-failures"
+  - "fdm-calibration"
+  - "materials-science"
+  - "warp-stress"
+  - "moisture-absorption"
+  - "tensile-strength"
